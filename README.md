@@ -655,7 +655,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ```bash
 # Clone the repository
-git clone https://github.com/ziadhatem/next-intl-ziad.git
+git clone https://github.com/ziad-hatem/next-intl-ziad.git
 
 # Install dependencies
 npm install
@@ -682,7 +682,7 @@ npm run test:coverage # With coverage
 
 ## 📄 License
 
-MIT © [Ziad Hatem](https://github.com/ziadhatem)
+MIT © [Ziad Hatem](https://ziadhatem.live/)
 
 ## 🙏 Acknowledgments
 
